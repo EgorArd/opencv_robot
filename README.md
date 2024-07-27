@@ -1,3 +1,3 @@
 # opencv_robot
 
-[![image.png](https://i.postimg.cc/JhP5knww/image.png)](https://postimg.cc/PLvDGdrK)
+[![image](https://i.postimg.cc/JhP5knww/image.png)](https://postimg.cc/PLvDGdrK)
