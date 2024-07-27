@@ -1,3 +1,3 @@
 # opencv_robot
 
-![image](https://postimg.cc/PLvDGdrK)
+![image](https://github.com/EgorArd/Photo/blob/main/Без%20имени.png)
