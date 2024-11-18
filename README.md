@@ -9,7 +9,7 @@
 
 В этом проекте используется:
 
-• Raspberry pi 3b 
+• Raspberry pi 3b
 • Arduino Uno  
 • Motor Shield  
 • (Жёлтые) моторы с редуктором 4 шт.  
