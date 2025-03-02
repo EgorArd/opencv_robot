@@ -17,9 +17,6 @@
 • Повербанк + крона  
 
 
-https://github.com/TrashRobotics/CVbot
-
-
 
 
 
