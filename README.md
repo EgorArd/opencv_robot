@@ -1,20 +1,21 @@
 # opencv_robot
 ![image](https://github.com/EgorArd/Photo/blob/main/Без%20имени.png)
 
-Всем привет👋, сегодня мы сделаем такого робота с компьютерным зрением ☝
+Hello everyone👋, today we will make such a robot with computer vision.
 
-Его задача: двигаться по линии с помощью компьютерного зрения👀
+His task is to move along the line using computer vision 👀
 
-........................................................................
-
-В этом проекте используется:
+.................
+This project uses:
 
 • Raspberry pi 3b
-• Arduino Uno  
-• Motor Shield  
-• (Жёлтые) моторы с редуктором 4 шт.  
-• Вебка  
-• Повербанк + крона  
+• Arduino Uno 
+• Motor Shield 
+• (Yellow) geared motors 4 pcs. 
+• Webcam 
+• Powerbank + Krona  
+
+
 
 
 
