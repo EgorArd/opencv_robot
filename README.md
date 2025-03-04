@@ -6,6 +6,7 @@ Hello everyone👋, today we will make such a robot with computer vision.
 His task is to move along the line using computer vision 👀
 
 .................
+
 This project uses:
 
 • Raspberry pi 3b
